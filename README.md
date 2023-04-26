@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/Syedomerali0/Syedomerali0/blob/main/gitpic.png)
 
-<h1 align="center">Asalamualikum I'm I Syed Omer Ali</h1>
+<h1 align="center">Asalamualikum I'm Syed Omer Ali</h1>
 <h3 align="center">A future frontend developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedomerali0" alt="syedomerali0" /></a> </p>
